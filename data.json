@@ -4,7 +4,7 @@
 	"backdrop": "<image href=\"https://i.imgur.com/#backdrops#.png\" width=\"960\" height=\"544\"/>",
 	"character": "<image href=\"https://i.imgur.com/#charImg#.png\" transform=\"translate(#transformations#, #charTransform#)\"/>",
 	"textbox": "<image href=\"https://i.imgur.com/CyjyRgt.png\" transform=\"translate(110, 370)\"/><image href=\"https://i.imgur.com/1F8ssbA.png\" transform=\"translate(80, 414)\"/><text fill=\"white\" transform=\"translate(173,398)\" dominant-baseline=\"middle\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"25\">#charName#</text>#quote#",
-	"channel": "<image href=\"#channels#\" width=\"240\" transform=\"translate(720, 0)\"/>",
+	"channel": "<image href=\"https://i.imgur.com/#channels#.png\" width=\"240\" transform=\"translate(720, 0)\"/>",
 	"quote": "<foreignObject width=\"750\" height=\"100\" transform=\"translate(100,410)\"><div style=\"display: table; height: 100px; overflow: hidden;\"><div style=\"display: table-cell; vertical-align: middle;\"><div style=\"color:white; text-align:left;font-family:sans-serif;font-size:25px;\">#quotes#</div></div></div></foreignObject>",
 	"transformations": ["200", "250", "300", "350", "400", "450", "500"],
 	"backdrops": [
